@@ -1,1 +1,2 @@
-# print("hi")
+# Start
+print("hi")
